@@ -24,5 +24,5 @@
 ---
 
 ### 🌐 Connect
-[![Discord](https://img.shields.io/badge/Discord-byte.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-fouadaburahma965--design-black?style=for-the-badge&logo=github)](https://github.com/fouadaburahma965-design)
+[![Discord](https://img.shields.io/badge/Discord-bytee.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-fouadaburahma965--design-black?style=for-the-badge&logo=github)](https://github.com/byte12121212)
